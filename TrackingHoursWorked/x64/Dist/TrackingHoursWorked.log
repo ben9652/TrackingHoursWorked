@@ -1,0 +1,8 @@
+﻿  MyApp.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+C:\Users\ben96\source\repos\ImGuiApp\TrackingHoursWorked\imgui\GLFW\glfw3.h(98): message : vea la definición anterior de 'APIENTRY'
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2758 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  TrackingHoursWorked.vcxproj -> C:\Users\ben96\source\repos\ImGuiApp\TrackingHoursWorked\bin\Dist\TrackingHoursWorked.exe
